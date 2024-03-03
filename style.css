@@ -215,3 +215,10 @@ img {
   border-radius: 100px;
   font-size: 24px;
 }
+#element2 {
+  color: var(--color-brand);
+}
+.flex-container{
+  display: flex;
+  gap: 20px;
+}
